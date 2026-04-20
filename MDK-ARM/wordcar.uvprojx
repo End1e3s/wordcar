@@ -400,6 +400,26 @@
               <FilePath>../Core/Src/main.c</FilePath>
             </File>
             <File>
+              <FileName>app_control.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>../Core/Src/app_control.c</FilePath>
+            </File>
+            <File>
+              <FileName>pid_ctrl.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>../Core/Src/pid_ctrl.c</FilePath>
+            </File>
+            <File>
+              <FileName>motor_drv.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>../Core/Src/motor_drv.c</FilePath>
+            </File>
+            <File>
+              <FileName>protocol_parser.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>../Core/Src/protocol_parser.c</FilePath>
+            </File>
+            <File>
               <FileName>gpio.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Core/Src/gpio.c</FilePath>
