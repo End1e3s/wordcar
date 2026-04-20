@@ -1,0 +1,48 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+
+# General C/C++ build artifacts
+*.o
+*.obj
+*.d
+*.dep
+*.a
+*.lib
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.lnp
+*.htm
+*.html
+
+# Keil MDK / uVision user files
+*.uvguix.*
+*.uvoptx
+*.bak
+JLinkLog.txt
+JLinkSettings.ini
+
+# Keil build output folders (keep project files)
+MDK-ARM/**/Listings/
+MDK-ARM/**/Objects/
+MDK-ARM/**/Debug/
+MDK-ARM/**/Release/
+MDK-ARM/**/Obj/
+
+# This project generated output folder
+MDK-ARM/wordcar/
+
